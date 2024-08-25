@@ -1,4 +1,4 @@
-<!--
+
 # 👋 Hello! I'm Danny
 
 **I'm a passionate developer focused on programming applications and websites. I love retro games, drawing, old-school rock, and I play guitar/bass.**
@@ -15,5 +15,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 
--->
+
 

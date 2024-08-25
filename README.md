@@ -11,5 +11,5 @@
 - 📫 How to reach me: shadowdx41@gmail.com
 - 😄 Pronouns: shadowDx41
 - ⚡ Fun fact: If you compare your life to a Rubik's Cube, you'll realize there are many possibilities to advance with your achievements.
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowdx41&layout=compact&theme=radical)
 -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowdx41&layout=compact&theme=radical)

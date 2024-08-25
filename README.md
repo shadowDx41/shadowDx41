@@ -10,10 +10,9 @@
 - 😄 Pronouns: shadowDx41
 - ⚡ Fun fact: If you compare your life to a Rubik's Cube, you'll realize there are many possibilities to advance with your achievements.
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shadowdx41&layout=compact&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=php,html,css,python,c#(sharp))
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight)
+
 
 
 
